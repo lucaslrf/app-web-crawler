@@ -36,6 +36,11 @@ if (isset($_POST["url"])) {
         <h1 class="title">
             Web Crawler PHP
         </h1>
+          <p>
+            <a href="https://github.com/lucaslrf/app-web-crawler" target="_blank">
+                <img class="icon-github" src="./img/github-logo.svg" />
+            </a>
+        </p>
     </header>
 
     <div class="container">

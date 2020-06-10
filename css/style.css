@@ -19,6 +19,20 @@ input[type=submit] {
     cursor: pointer;
 }
 
+p {
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: blue;
+}
+
+.icon-github {
+    width: 24px;
+    height: 24px;
+}
+
 .title {
     padding-top: 5px;
     text-align: center;

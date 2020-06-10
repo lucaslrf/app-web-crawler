@@ -4,9 +4,9 @@ Web Crawler utilizando PHP
 
 ### Passos para utilização
 
-Acesse o link: 
-Utilize o input de pesquisa para pesquisar a url desejada
-Espere o carregamento e as pastas para visualização das pages e os assets (css, js, img) logo ficam disponíveis
+- Acesse a demo pelo link: https://app-web-crawler.herokuapp.com
+- Utilize o input de pesquisa para pesquisar a url desejada
+- Espere o carregamento e as pastas para visualização das pages e os assets (css, js, img) logo ficam disponíveis
 
 ### Passos para testes
 
