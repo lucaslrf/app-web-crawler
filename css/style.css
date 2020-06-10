@@ -1,0 +1,91 @@
+input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+input[type=submit] {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: rgb(21, 61, 94);
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+.title {
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.dados-dominio {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    text-align: left;
+}
+
+span {
+    margin: 2%;
+}
+
+.icon-folder {
+    width: auto;
+    height: 1.5em;
+    vertical-align: middle;
+    margin: 1%;
+}
+
+.icon-arrow {
+    width: auto;
+    height: 0.8em;
+    vertical-align: middle;
+}
+
+#folder-pages {
+    display: none;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+}
+
+#folder-css {
+    display: none;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+}
+
+#folder-js {
+    display: none;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+}
+
+#folder-images {
+    display: none;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+}
+
+ul li {
+    list-style-type: none;
+}
